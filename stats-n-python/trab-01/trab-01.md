@@ -1,6 +1,6 @@
-===== Trabalho 01 =====
+# Trabalho 01
 
-Este trabalho deve ser obrigatoriamente desenvolvido utilizando o arquivo "StudentsPerformance.csv" fornecido em conjunto com este arquivo. Fonte: http://roycekimmons.com/tools/generated_data/exams
+Este trabalho deve ser obrigatoriamente desenvolvido utilizando o arquivo "`StudentsPerformance.csv`" fornecido em conjunto com este arquivo. Fonte: http://roycekimmons.com/tools/generated_data/exams
 
 O objetivo deste trabalho é treinar os alunos para que possam realizar uma análise exploratória simples. Uma análise exploratória consiste em analisar o conjunto de dados em busca de insights que possam nos fornecer informações valiosas a respeito de padrões ali existentes.
 
