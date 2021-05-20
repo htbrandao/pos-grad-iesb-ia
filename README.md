@@ -4,8 +4,8 @@
 |---|---|
 |Data discovering and data vizualization|&check;|
 |Statistics and data analysis|-|
-|Supervised Learning|-|
 |AI Fundamentals|-|
+|Supervised Learning|-|
 |Unsupervised Learning|-|
 |Deep Learning|-|
 |Baysean Inference in Machine Learning|-|
