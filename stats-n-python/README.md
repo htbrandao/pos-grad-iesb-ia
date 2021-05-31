@@ -7,7 +7,7 @@
     - [material de aula](http://mmendelson.com/extra-resources/)
 - Aula 2 (`11/05/21`): Estruturas de dados em Python
 - Aula 3 (`18/05/21`): Estatística básica
-- Aula 4 (`25/05/21`): 
+- Aula 4 (`25/05/21`): Plotting
 - Aula 5 (`01/06/21`): Apresentação trabalho #1
 - Aula 6 (`08/06/21`): 
 - Aula 7 (`15/06/21`): 
