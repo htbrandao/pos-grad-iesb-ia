@@ -1,6 +1,5 @@
 # Data discovering e data visualization
 
-
 - Aula 1 (`01/04/21`): aula inaugural
 - Aula 2 (`08/04/21`): KDD
 - Aula 3 (`15/04/21`): Power BI
