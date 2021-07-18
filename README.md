@@ -1,10 +1,10 @@
-# [Post grad in Artificial Intelligence](https://www.iesb.br/pos/curso/inteligencia-artificial-remoto-)
+# [Specialization in Artificial Intelligence](https://www.iesb.br/pos/curso/inteligencia-artificial-remoto-)
 
 |Disciplines|Status|
 |---|---|
 |Data discovering and data vizualization|&check;|
-|Statistics and data analysis|-|
-|AI Fundamentals|-|
+|Statistics and data analysis|&check;|
+|AI Fundamentals|&check;|
 |Supervised Learning|-|
 |Unsupervised Learning|-|
 |Deep Learning|-|
