@@ -5,8 +5,8 @@
 |Data discovering and data vizualization|✅|
 |Statistics and data analysis|✅|
 |AI Fundamentals|✅|
-|Supervised Learning|❔|
 |Unsupervised Learning|✅|
+|Supervised Learning|❔|
 |Deep Learning|❔|
 |Baysean Inference in Machine Learning|❔|
 |Cognitive computing 1 - NLP|❔|
