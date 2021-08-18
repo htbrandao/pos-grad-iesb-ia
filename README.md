@@ -1,6 +1,6 @@
 # [Specialization in Artificial Intelligence](https://www.iesb.br/pos/curso/inteligencia-artificial-remoto-)
 
-|Cursos|Concluída|
+|Courses|Done|
 |---|---|
 |Data discovering and data vizualization|✅|
 |Statistics and data analysis|✅|
