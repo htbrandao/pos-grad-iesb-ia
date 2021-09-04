@@ -6,9 +6,9 @@
 |Statistics and data analysis|✅|
 |AI Fundamentals|✅|
 |Unsupervised Learning|✅|
-|Supervised Learning|❔|
-|Deep Learning|❔|
+|Supervised Learning|✅|
 |Baysean Inference in Machine Learning|❔|
+|Deep Learning|❔|
 |Cognitive computing 1 - NLP|❔|
 |Reinforcemente Learning|❔|
 |Big Data Platforms|❔|
