@@ -18,3 +18,5 @@ courses/*/*/train-images
 courses/*/*/train-labels
 courses/*/*/test-images
 courses/*/*/test-labels
+
+*.h5
