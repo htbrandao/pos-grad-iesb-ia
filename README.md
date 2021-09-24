@@ -7,8 +7,8 @@
 |AI Fundamentals|✅|
 |Unsupervised Learning|✅|
 |Supervised Learning|✅|
-|Baysean Inference in Machine Learning|❔|
-|Deep Learning - Sup. & Unsup|❔|
+|Baysean Inference in Machine Learning|📝|
+|Deep Learning - Sup. & Unsup|📝|
 |Cognitive computing 1 - NLP|❔|
 |Reinforcemente Learning|❔|
 |Big Data Platforms|❔|
