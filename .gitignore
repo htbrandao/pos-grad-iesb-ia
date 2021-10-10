@@ -4,6 +4,8 @@ venv/
 
 __pycache__/
 */__pycache__/
+*/*/__pycache__/
+*/*/*/__pycache__/
 
 .ipynb_checkpoints/
 */.ipynb_checkpoints/
@@ -20,3 +22,5 @@ courses/*/*/test-images
 courses/*/*/test-labels
 
 *.h5
+
+*/*/generative-dog-images/
