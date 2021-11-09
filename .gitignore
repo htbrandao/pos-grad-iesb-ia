@@ -21,6 +21,10 @@ courses/*/*/train-labels
 courses/*/*/test-images
 courses/*/*/test-labels
 
+courses/*/train-images
+courses/*/test-images
+
 *.h5
 
 */*/generative-dog-images/
+*/*/dados-birds-species/
